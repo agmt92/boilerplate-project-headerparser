@@ -1,7 +1,7 @@
 # Request Header Parser Microservice
 
 This project is the [exam](https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/request-header-parser-microservice
-) part of the freeCodeCamp Back End Development and APIs curriculum. It is a Request Header Parser Microservice built using Node.js and Express. The application provides an API endpoint that returns the IP address, preferred languages, and system information of the user making the request.
+) part of the freeCodeCamp Back End Development and APIs curriculum. It is a Request Header Parser Microservice built using Node.js and Express. The application provides an API endpoint that returns the IP address, preferred languages, and system information of the user making the request.The structure of the project including the index.HTML was cloned from freeCodeCamp, I completed the index.js code.
 
 You can view the live demo of the project [here](https://headparser-513880413aff.herokuapp.com/).
 
